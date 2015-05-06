@@ -1,3 +1,7 @@
+## DePoint May 2015
+* This repository contains the appropriate code and plots to satisfy the week 1 assignments for Exploratory Data Analysis 
+
+
 ## Introduction
 
 This assignment uses data from
